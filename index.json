@@ -59,6 +59,108 @@
         "group"
       ],
       "updated_at": "2026-11-21"
+    },
+    "CarefreeSongs712/anysearch": {
+      "author": "CarefreeSongs712",
+      "name": "anysearch",
+      "display_name": "搜索",
+      "version": "1.0.0",
+      "description": "AnySearch 网页搜索工具",
+      "repo": "https://github.com/CarefreeSongs712/mohobot-plugin-anysearch",
+      "download_url": "https://github.com/CarefreeSongs712/mohobot-plugin-anysearch/releases/download/v1.0.0/anysearch-1.0.0.zip",
+      "sha256": "1c8b6fd33b6d2949bbea8b123f157d90a021ae173ffcf40caebc7c73c2cea32c",
+      "api_version": 1,
+      "mohobot_version": ">=0.1.0",
+      "license": "MIT",
+      "tags": [
+        "search"
+      ],
+      "updated_at": "2026-11-21"
+    },
+    "CarefreeSongs712/beszel_servers": {
+      "author": "CarefreeSongs712",
+      "name": "beszel_servers",
+      "display_name": "Beszel 监控",
+      "version": "1.0.0",
+      "description": "Beszel 服务器状态卡片",
+      "repo": "https://github.com/CarefreeSongs712/mohobot-plugin-beszel_servers",
+      "download_url": "https://github.com/CarefreeSongs712/mohobot-plugin-beszel_servers/releases/download/v1.0.0/beszel_servers-1.0.0.zip",
+      "sha256": "4f28764825b3afb69db1430370b1a7caf16fd05956b250d36362c79a9fa59d9e",
+      "api_version": 1,
+      "mohobot_version": ">=0.1.0",
+      "license": "MIT",
+      "tags": [
+        "monitor"
+      ],
+      "updated_at": "2026-11-21"
+    },
+    "CarefreeSongs712/bilibiliparse": {
+      "author": "CarefreeSongs712",
+      "name": "bilibiliparse",
+      "display_name": "B 站解析",
+      "version": "1.0.0",
+      "description": "Bilibili 视频/动态链接解析",
+      "repo": "https://github.com/CarefreeSongs712/mohobot-plugin-bilibiliparse",
+      "download_url": "https://github.com/CarefreeSongs712/mohobot-plugin-bilibiliparse/releases/download/v1.0.0/bilibiliparse-1.0.0.zip",
+      "sha256": "6e8b95fcb3fedb28274408ed46e0fa5d547eaa195852f039518ba4303a17ca1a",
+      "api_version": 1,
+      "mohobot_version": ">=0.1.0",
+      "license": "MIT",
+      "tags": [
+        "bilibili"
+      ],
+      "updated_at": "2026-11-21"
+    },
+    "CarefreeSongs712/divination": {
+      "author": "CarefreeSongs712",
+      "name": "divination",
+      "display_name": "占卜",
+      "version": "1.0.0",
+      "description": "每日占卜与运势",
+      "repo": "https://github.com/CarefreeSongs712/mohobot-plugin-divination",
+      "download_url": "https://github.com/CarefreeSongs712/mohobot-plugin-divination/releases/download/v1.0.0/divination-1.0.0.zip",
+      "sha256": "6946708285d817a7238a5d9ede61000141fd6c4f09d539600b9cdfe822f1b066",
+      "api_version": 1,
+      "mohobot_version": ">=0.1.0",
+      "license": "MIT",
+      "tags": [
+        "fun"
+      ],
+      "updated_at": "2026-11-21"
+    },
+    "CarefreeSongs712/meme_stealer": {
+      "author": "CarefreeSongs712",
+      "name": "meme_stealer",
+      "display_name": "表情包小偷",
+      "version": "1.0.0",
+      "description": "表情包收集、检索与发送",
+      "repo": "https://github.com/CarefreeSongs712/mohobot-plugin-meme_stealer",
+      "download_url": "https://github.com/CarefreeSongs712/mohobot-plugin-meme_stealer/releases/download/v1.0.0/meme_stealer-1.0.0.zip",
+      "sha256": "e33610aea558e0244df6b249d91d20ea1eb7fe0967658a0ce18430541fa0f268",
+      "api_version": 1,
+      "mohobot_version": ">=0.1.0",
+      "license": "AGPL-3.0",
+      "tags": [
+        "meme"
+      ],
+      "updated_at": "2026-11-21"
+    },
+    "CarefreeSongs712/neteasemusic": {
+      "author": "CarefreeSongs712",
+      "name": "neteasemusic",
+      "display_name": "网易云点歌",
+      "version": "1.0.0",
+      "description": "网易云音乐搜索与点歌",
+      "repo": "https://github.com/CarefreeSongs712/mohobot-plugin-neteasemusic",
+      "download_url": "https://github.com/CarefreeSongs712/mohobot-plugin-neteasemusic/releases/download/v1.0.0/neteasemusic-1.0.0.zip",
+      "sha256": "1ca5de7604e6a34b260fba632adaf482440555963c46ab5de4db0e1c0d38bca3",
+      "api_version": 1,
+      "mohobot_version": ">=0.1.0",
+      "license": "MIT",
+      "tags": [
+        "music"
+      ],
+      "updated_at": "2026-11-21"
     }
   }
 }
