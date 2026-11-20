@@ -161,6 +161,74 @@
         "music"
       ],
       "updated_at": "2026-11-21"
+    },
+    "CarefreeSongs712/proactive_chat": {
+      "author": "CarefreeSongs712",
+      "name": "proactive_chat",
+      "display_name": "主动聊天",
+      "version": "1.0.0",
+      "description": "私聊主动发起对话",
+      "repo": "https://github.com/CarefreeSongs712/mohobot-plugin-proactive_chat",
+      "download_url": "https://github.com/CarefreeSongs712/mohobot-plugin-proactive_chat/releases/download/v1.0.0/proactive_chat-1.0.0.zip",
+      "sha256": "a2c9dc88dfea7ac3d39db083d88463a5220e948297b7abe3dd273b7cfd4c02ca",
+      "api_version": 1,
+      "mohobot_version": ">=0.1.0",
+      "license": "AGPL-3.0",
+      "tags": [
+        "chat"
+      ],
+      "updated_at": "2026-11-21"
+    },
+    "CarefreeSongs712/qzone": {
+      "author": "CarefreeSongs712",
+      "name": "qzone",
+      "display_name": "QQ 空间",
+      "version": "1.0.0",
+      "description": "QQ 空间发布与浏览",
+      "repo": "https://github.com/CarefreeSongs712/mohobot-plugin-qzone",
+      "download_url": "https://github.com/CarefreeSongs712/mohobot-plugin-qzone/releases/download/v1.0.0/qzone-1.0.0.zip",
+      "sha256": "d0ec13a54978c3581b9cd604757c4a58aeb6fb53be1cbffdaacf4b66cabecc0a",
+      "api_version": 1,
+      "mohobot_version": ">=0.1.0",
+      "license": "MIT",
+      "tags": [
+        "qzone"
+      ],
+      "updated_at": "2026-11-21"
+    },
+    "CarefreeSongs712/six66": {
+      "author": "CarefreeSongs712",
+      "name": "six66",
+      "display_name": "六六六",
+      "version": "1.0.0",
+      "description": "群聊随机复读 6/66/666",
+      "repo": "https://github.com/CarefreeSongs712/mohobot-plugin-six66",
+      "download_url": "https://github.com/CarefreeSongs712/mohobot-plugin-six66/releases/download/v1.0.0/six66-1.0.0.zip",
+      "sha256": "5d18123fc63236b8cd15ed3787a99dacffdcb9b885efde5af7994939dbd0ab81",
+      "api_version": 1,
+      "mohobot_version": ">=0.1.0",
+      "license": "MIT",
+      "tags": [
+        "fun"
+      ],
+      "updated_at": "2026-11-21"
+    },
+    "CarefreeSongs712/wifepicker": {
+      "author": "CarefreeSongs712",
+      "name": "wifepicker",
+      "display_name": "抽老婆",
+      "version": "1.0.0",
+      "description": "群聊抽老婆互动",
+      "repo": "https://github.com/CarefreeSongs712/mohobot-plugin-wifepicker",
+      "download_url": "https://github.com/CarefreeSongs712/mohobot-plugin-wifepicker/releases/download/v1.0.0/wifepicker-1.0.0.zip",
+      "sha256": "c515ea0f069e0a3eeb4233e2c68807548933052e705af8f2cc21a3c558281d8c",
+      "api_version": 1,
+      "mohobot_version": ">=0.1.0",
+      "license": "MIT",
+      "tags": [
+        "fun"
+      ],
+      "updated_at": "2026-11-21"
     }
   }
 }
