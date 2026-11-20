@@ -4,5 +4,61 @@
     "name": "mohobot-plugin-index",
     "updated_at": "2026-11-21"
   },
-  "plugins": {}
+  "plugins": {
+    "CarefreeSongs712/relationship": {
+      "author": "CarefreeSongs712",
+      "name": "relationship",
+      "display_name": "关系管理",
+      "version": "1.0.0",
+      "description": "QQ 好友与群聊管理、入群/好友申请审批、通知处理",
+      "repo": "https://github.com/CarefreeSongs712/mohobot-plugin-relationship",
+      "download_url": "https://github.com/CarefreeSongs712/mohobot-plugin-relationship/releases/download/v1.0.0/relationship-1.0.0.zip",
+      "sha256": "563b1639970540334c2b6bbf07405c61bda42d0c9004826cc70c9b2300437ecf",
+      "api_version": 1,
+      "mohobot_version": ">=0.1.0",
+      "license": "AGPL-3.0",
+      "tags": [
+        "relationship",
+        "admin",
+        "approval"
+      ],
+      "updated_at": "2026-11-21"
+    },
+    "CarefreeSongs712/praise": {
+      "author": "CarefreeSongs712",
+      "name": "praise",
+      "display_name": "点赞",
+      "version": "1.0.0",
+      "description": "群聊/私聊发送「赞我」或「zanwo」时自动点赞",
+      "repo": "https://github.com/CarefreeSongs712/mohobot-plugin-praise",
+      "download_url": "https://github.com/CarefreeSongs712/mohobot-plugin-praise/releases/download/v1.0.0/praise-1.0.0.zip",
+      "sha256": "7d792d15a57066d25fd059ebc285dac239b1466b7da757b706a2a8c35fb6ccc9",
+      "api_version": 1,
+      "mohobot_version": ">=0.1.0",
+      "license": "MIT",
+      "tags": [
+        "praise",
+        "interaction"
+      ],
+      "updated_at": "2026-11-21"
+    },
+    "CarefreeSongs712/welcome": {
+      "author": "CarefreeSongs712",
+      "name": "welcome",
+      "display_name": "欢迎",
+      "version": "1.0.0",
+      "description": "新好友、新入群时自动发送欢迎消息",
+      "repo": "https://github.com/CarefreeSongs712/mohobot-plugin-welcome",
+      "download_url": "https://github.com/CarefreeSongs712/mohobot-plugin-welcome/releases/download/v1.0.0/welcome-1.0.0.zip",
+      "sha256": "0ea4d68a96e753980ff833869a8b4612c98daef2159ea11adad8dfda02a7dd08",
+      "api_version": 1,
+      "mohobot_version": ">=0.1.0",
+      "license": "MIT",
+      "tags": [
+        "welcome",
+        "group"
+      ],
+      "updated_at": "2026-11-21"
+    }
+  }
 }
